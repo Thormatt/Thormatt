@@ -4,7 +4,7 @@ Three-time founder building production AI from NYC.
 
 - **[Pagenta](https://pagenta.ai)** — deployment infrastructure for AI-generated apps. Claude, ChatGPT, or any MCP-aware agent ships a working web app to a real URL in seconds, with password locks, cron, push notifications, and per-view analytics built in.
 - **[Plurality AI](https://pluralityai.com)** — a reasoning layer over 30 frontier models. Stop asking one model and hoping; ask a panel and see consensus, disagreement, and citations side by side.
-- **dialectic** — AI investment intelligence. A multi-model panel votes 1–10 on stocks (Rotten Tomatoes style); when models disagree, a crux debate surfaces *why* instead of forcing agreement. Hybrid stack: live financial data, SEC XBRL, Monte Carlo scenarios, DCF.
+- **[Duetic AI](https://dueticai.com)** — AI investment intelligence. Three agents debate every stock — Bull, Bear, and Judge — so you see the full picture instead of one model's hot take. Hybrid stack: live financial data, SEC XBRL, Monte Carlo scenarios, DCF.
 - **[AI With Thor](https://aiwiththor.com)** — executive AI consulting. Strategy that ships, from 10-day briefs through fractional AI leadership.
 
 ### Research
