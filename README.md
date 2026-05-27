@@ -22,9 +22,9 @@ Operating across three countries — two co-founded companies, four solo AI prod
 
 Independent ML work alongside the products.
 
-- **SGRM** — Surprise-Gated Recurrent Memory. GRU + slow memory with surprise-gated writes. 12× MQAR over GRU at T=64.
-- **COC** — Counterfactual Operations Copilot. DRLearner on live k8s incidents. Precision@3 = 1.00, 84% MTTR reduction.
-- **Computed Targets** — mathematical guardrails for LLM negotiators. 8 models, 5 labs, 1,600+ negotiation games. Paper to arXiv.
+- **SGRM** (Surprise-Gated Recurrent Memory) — teaching neural networks to recognize when something is *surprising enough* to commit to memory, the way humans do. Lets small, cheap models hold more context than they normally could. *Technical: GRU + slow memory with surprise-gated writes; 12× MQAR over GRU at T=64.*
+- **COC** (Counterfactual Operations Copilot) — when live infrastructure breaks at 3 AM, this suggests the fix by simulating what *would* happen if you tried each option — instead of relying on static playbooks. *Technical: DRLearner on live Kubernetes incidents; top-3 suggestion correct 100% of the time, 84% reduction in mean-time-to-resolution.*
+- **Computed Targets** — LLM negotiators get tricked by anchoring (the first number on the table biases everything that follows) and they collapse to similar outputs across models. This paper builds mathematical guardrails that compute the real target *before* negotiating — immune to the manipulation. *Technical: 8 frontier models, 5 labs, 1,600+ adversarial negotiation games. Paper to arXiv.*
 
 ### Recent appearances
 
