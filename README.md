@@ -17,7 +17,7 @@ Independent ML work alongside shipping products.
 
 ### Speaking
 
-NATO • Google • Betaworks
+NATO • Google • AI Tinkerers
 
 ### Stack
 
