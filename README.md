@@ -13,7 +13,7 @@ Independent ML work alongside shipping products.
 - **SGRM** — Surprise-Gated Recurrent Memory. GRU + slow memory with surprise-gated writes. 12× MQAR over GRU at T=64.
 - **COC** — Counterfactual Operations Copilot. DRLearner on live k8s incidents. Precision@3 = 1.00, 84% MTTR reduction.
 - **Computed Targets** — mathematical guardrails for LLM negotiators. 8 models, 5 labs, 1,600+ negotiation games.
-- **[Delphi](https://github.com/Thormatt/Delphi)** — multi-model consensus that cross-references LLM answers to surface disagreement. (Productized as [Plurality AI](https://pluralityai.com).)
+- **[plurality-ai](https://github.com/Thormatt/plurality-ai)** — open-source core of [Plurality AI](https://pluralityai.com). Multi-model consensus that cross-references LLM answers to surface disagreement.
 
 ### Speaking
 
