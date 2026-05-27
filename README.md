@@ -1,14 +1,28 @@
 ### Hi, I'm Thor
 
-Independent researcher and developer based in the New York metro area.
+Two-time founder building production AI from NYC.
 
-I work at the intersection of machine learning research and full-stack development, building tools that make AI more useful and more honest.
+- **[Pagenta](https://pagenta.ai)** — deployment infrastructure for AI-generated apps. Claude, ChatGPT, or any MCP-aware agent ships a working web app to a real URL in seconds, with password locks, cron, push notifications, and per-view analytics built in.
+- **[Plurality AI](https://pluralityai.com)** — a reasoning layer over 30 frontier models. Stop asking one model and hoping; ask a panel and see consensus, disagreement, and citations side by side.
+- **[AI With Thor](https://aiwiththor.com)** — executive AI consulting. Strategy that ships, from 10-day briefs through fractional AI leadership.
 
-**Featured projects:**
+### Research
 
-- [**MoGRU**](https://github.com/Thormatt/mogru) -- Momentum-Gated Recurrent Unit: investigating whether second-order dynamics improve recurrent networks (negative-result research, PyTorch)
-- [**Delphi**](https://github.com/Thormatt/Delphi) -- Multi-model AI consensus tool that cross-references answers across LLMs to surface disagreements and reduce hallucinations
+Independent ML experiments. Most are negative results; all are honest.
 
-**Stack:** Python, TypeScript, PyTorch, Next.js, Supabase
+- **[MoGRU](https://github.com/Thormatt/mogru)** — Momentum-Gated Recurrent Unit. Does second-order dynamics help RNNs?
+- **[Delphi](https://github.com/Thormatt/Delphi)** — multi-model consensus that cross-references LLM answers to surface disagreement.
+- **SGRM** — Surprise-Gated Recurrent Memory. GRU + slow memory with surprise-gated writes. 12× MQAR over GRU at T=64.
+- **COC** — Counterfactual Operations Copilot. DRLearner on live k8s incidents. Precision@3 = 1.00, 84% MTTR reduction.
 
-[aiwiththor.com](https://aiwiththor.com)
+### Speaking
+
+NATO • Google • Betaworks
+
+### Stack
+
+Python • PyTorch • TypeScript • Next.js • Supabase • MCP
+
+### Reach me
+
+[thor@aiwiththor.com](mailto:thor@aiwiththor.com) • [aiwiththor.com](https://aiwiththor.com)
