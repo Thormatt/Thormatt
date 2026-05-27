@@ -1,9 +1,10 @@
 ### Hi, I'm Thor
 
-Two-time founder building production AI from NYC.
+Three-time founder building production AI from NYC.
 
 - **[Pagenta](https://pagenta.ai)** — deployment infrastructure for AI-generated apps. Claude, ChatGPT, or any MCP-aware agent ships a working web app to a real URL in seconds, with password locks, cron, push notifications, and per-view analytics built in.
 - **[Plurality AI](https://pluralityai.com)** — a reasoning layer over 30 frontier models. Stop asking one model and hoping; ask a panel and see consensus, disagreement, and citations side by side.
+- **Quorum** — multi-model investment consensus, Rotten Tomatoes style. A 6-model panel votes 1–10 on stocks; when models disagree, a crux debate surfaces *why* and classifies the disagreement instead of forcing agreement. Hybrid stack: live financial data, SEC XBRL, Monte Carlo scenarios, DCF.
 - **[AI With Thor](https://aiwiththor.com)** — executive AI consulting. Strategy that ships, from 10-day briefs through fractional AI leadership.
 
 ### Research
@@ -13,7 +14,6 @@ Independent ML work alongside shipping products.
 - **SGRM** — Surprise-Gated Recurrent Memory. GRU + slow memory with surprise-gated writes. 12× MQAR over GRU at T=64.
 - **COC** — Counterfactual Operations Copilot. DRLearner on live k8s incidents. Precision@3 = 1.00, 84% MTTR reduction.
 - **Computed Targets** — mathematical guardrails for LLM negotiators. 8 models, 5 labs, 1,600+ negotiation games.
-- **[plurality-ai](https://github.com/Thormatt/plurality-ai)** — open-source core of [Plurality AI](https://pluralityai.com). Multi-model consensus that cross-references LLM answers to surface disagreement.
 
 ### Speaking
 
