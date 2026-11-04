@@ -14,7 +14,7 @@ Turns the reports, dashboards and tools that Claude, ChatGPT or any MCP agent pr
 **[Plurality](https://pluralityai.com)** · multi-model deliberation engine · [open source](https://github.com/Thormatt/plurality-ai-mcp)\
 Routes a decision to a panel of frontier models through structured protocols (debate, red team, peer review, forecasting) and returns a decision memo that preserves the disagreements and the full transcript.
 
-**[orc](https://github.com/Thormatt/orc)** · verification runtime for AI in regulated work · open source\
+**[Orc](https://thor.pagenta.app/orc-explained)** · verification runtime for AI in regulated work · [open source](https://github.com/Thormatt/orc)\
 Checks model output claim by claim against evidence, with chunk-level citations, deterministic replay and audit bundles. F1 0.864 on a 504-item HaluBench subsample using an off-the-shelf Claude Sonnet 4.6, no fine-tuning.
 
 #### Research
