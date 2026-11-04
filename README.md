@@ -1,30 +1,30 @@
 ### Thor Matthiasson
 
-I find the pain point first, then build the AI system that removes it: from the first conversation with the people who have the problem, through the model, to the product in production.
+**Founder and applied AI engineer.** I turn hard business problems into AI systems that run in production, and publish research on how those systems behave. My work spans machine learning, multi-agent LLM systems and privacy-preserving algorithms.
 
-My background is in machine learning, AI and privacy-preserving algorithms. I have run [Svartigaldur](https://svartigaldur.is), a Google Premier Partner agency in Iceland, for almost ten years, and co-founded Mobius Carbon, a UK climate-tech company.
+- **Co-founder & Managing Partner, [Svartigaldur](https://svartigaldur.is)** · Google Premier Partner agency, Iceland · nearly ten years
+- **Co-founder, Mobius Carbon** · climate tech, United Kingdom
+- **Speaker** · NATO Hybrid Threats panel, Reykjavik · Google Premier Partner event, Amsterdam · Betaworks, New York · AI Tinkerers
 
-**Panelist, NATO Hybrid Threats panel** (Reykjavik) · **Co-presented at Google's Premier Partner event** (Amsterdam) · AI product showcase at Betaworks (New York) · Pagenta demo at AI Tinkerers
+#### Selected work
 
-#### What I've built
+**[Pagenta](https://pagenta.ai)** · publishing infrastructure for AI-generated work · Web, CLI, MCP\
+Turns the reports, dashboards and tools that Claude, ChatGPT or any MCP agent produce into live, access-controlled web apps in seconds. Persistent state, analytics, scheduled jobs, secrets and A/B testing are built into the runtime, so agents can publish working software, not just files.
 
-**[Pagenta](https://pagenta.ai)** · the publishing layer for AI-made work · Web, CLI, MCP\
-AI writes good reports, decks and dashboards, then leaves them stuck in a chat. Pagenta puts them at a real URL in seconds and turns them into working apps: password gates, expiry, analytics, state that survives (votes, comments, RSVPs), Spaces, server-side cron, secrets for live API calls and built-in A/B tests. Claude, ChatGPT or any MCP agent can publish to it on its own.
+**[Plurality](https://pluralityai.com)** · multi-model deliberation engine · [open source](https://github.com/Thormatt/plurality-ai-mcp)\
+Routes a decision to a panel of frontier models through structured protocols (debate, red team, peer review, forecasting) and returns a decision memo that preserves the disagreements and the full transcript.
 
-**[Plurality](https://pluralityai.com)** · multi-model deliberation · [open source](https://github.com/Thormatt/plurality-ai-mcp)\
-One model's confident answer hides what the others would have said. Plurality puts the question to a panel of models (debate, red team, peer review, forecast) and returns a decision memo that keeps the disagreements and the full transcript.
-
-**[orc](https://github.com/Thormatt/orc)** · verification runtime · open source\
-AI answers in legal, clinical and financial work have to be defensible. orc checks output claim by claim against evidence, with citations, replay and audit bundles. F1 0.864 on a 504-item HaluBench subsample using an off-the-shelf Claude Sonnet 4.6 call, no fine-tuning.
+**[orc](https://github.com/Thormatt/orc)** · verification runtime for AI in regulated work · open source\
+Checks model output claim by claim against evidence, with chunk-level citations, deterministic replay and audit bundles. F1 0.864 on a 504-item HaluBench subsample using an off-the-shelf Claude Sonnet 4.6, no fine-tuning.
 
 #### Research
 
-**[Computed Targets and the Middleman Protocol](https://github.com/Thormatt/llm-negotiation)** · paper, code and data · [plain-English version](https://thor.pagenta.app/s/llm-negotiations/how-ai-negotiates)\
-AI agents will soon negotiate on our behalf. Across eight models from five labs, strategic advice in words made them negotiate worse; a computed numeric target cut outcome variance 2–10×, and replacing the conversation with a neutral protocol lifted joint efficiency from 79% to 91–96%.
+**[Computed Targets and the Middleman Protocol](https://github.com/Thormatt/llm-negotiation)** · paper, code and data · [plain-English summary](https://thor.pagenta.app/s/llm-negotiations/how-ai-negotiates)\
+How LLM agents negotiate on behalf of users, tested across eight models from five labs. Strategic advice in natural language degrades their outcomes; computed numeric targets cut outcome variance 2–10×; replacing the conversation with a neutral protocol lifts joint efficiency from 79% to 91–96%.
 
 #### More
 
-All my apps, with the story behind each: **[appmarketplace.ai](https://appmarketplace.ai)**\
+Full product catalogue: **[appmarketplace.ai](https://appmarketplace.ai)**\
 Weekly AI briefing: **[AI Without the Hype](https://aiwithoutthehype.com)**
 
 Python · PyTorch · TypeScript · MCP · Next.js
